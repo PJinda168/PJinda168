@@ -55,42 +55,15 @@ paul@homelab:~$ whoami --verbose
   <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,bash,python,docker,nginx,postgres,sqlite,git,vscode&theme=dark" />
 </p>
 
-<!-- ─────────────────────────────  STATS  ───────────────────────────── -->
-## 📊 GitHub Stats
+<!-- ─────────────────────────────  SNAKE  ───────────────────────────── -->
+## 🐍 Watch the snake eat my contributions
 
 <div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PJinda168&show_icons=true&include_all_commits=true&hide_border=true&title_color=F97316&icon_color=F97316&text_color=C9D1D9&bg_color=0D1117" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PJinda168&layout=compact&langs_count=8&hide_border=true&title_color=F97316&text_color=C9D1D9&bg_color=0D1117" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=PJinda168&hide_border=true&background=0D1117&stroke=30363D&ring=F97316&fire=F97316&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=F97316&sideLabels=8B949E&dates=8B949E" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=PJinda168&bg_color=0D1117&color=F97316&line=F97316&point=FFFFFF&area=true&hide_border=true" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PJinda168/PJinda168/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PJinda168/PJinda168/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/PJinda168/PJinda168/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
-
-<!-- ─────────────────────────────  TROPHIES  ───────────────────────────── -->
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PJinda168&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" />
-</div>
-
-<!-- ─────────────────────────────  CONNECT  ───────────────────────────── -->
-## 🤝 Connect
-
-<p align="center">
-  <a href="https://github.com/PJinda168"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <!-- add your own anytime, e.g.:
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.reddit.com/user/HANDLE"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
-  -->
-</p>
-
-<!-- SNAKE_PLACEHOLDER -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:E57000&height=120&section=footer" />
