@@ -1,0 +1,8 @@
+# Local-only reference — do NOT publish (it names the hidden services)
+SETUP.md
+
+# macOS
+.DS_Store
+
+# snake action build output (generated on the `output` branch, not main)
+dist/
