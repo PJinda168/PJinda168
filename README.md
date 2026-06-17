@@ -13,31 +13,35 @@
 
 </div>
 
-<!-- ─────────────────────────────  ABOUT  ───────────────────────────── -->
-## 🧑‍💻 whoami
-
-```bash
-paul@homelab:~$ whoami --verbose
-```
-
-- 🖥️ &nbsp; I run a **2-node Proxmox VE cluster** hosting **~15** LXCs & VMs
-- 🏠 &nbsp; Deep into **self-hosting, home networking & automation**
-- 🔐 &nbsp; My data lives at home — not in someone else's cloud
-- 🧪 &nbsp; Always mid-experiment; usually one `apt upgrade` away from chaos
-- ⚡ &nbsp; Fun fact: my entire "cloud" fits in a cupboard
+<!-- ─────────────────────────────  TERMINAL / ABOUT  ───────────────────────────── -->
+<div align="center">
+  <img src="assets/homelab.svg" alt="paul@homelab — neofetch readout of my Proxmox cluster" width="720" />
+</div>
 
 <!-- ─────────────────────────────  HOMELAB  ───────────────────────────── -->
 ## 🏠 The Homelab
 
-> A 2-node **Proxmox** cluster — the services I actually use every day.
+> A 2-node **Proxmox** cluster running ~15 services I actually use every day.
 
-| Area | Running |
-|------|---------|
-| 🧠 &nbsp;**Hypervisor** | Proxmox VE 8 · 2-node cluster |
-| 🌐 &nbsp;**Network** | pfSense · AdGuard Home · Tailscale · Omada |
-| 🎬 &nbsp;**Media** | Jellyfin · Navidrome |
-| 📸 &nbsp;**Photos & Docs** | Immich · Paperless-ngx · OpenMediaVault |
-| 🔐 &nbsp;**Daily drivers** | Vaultwarden · Home Assistant · BookLore · Memos |
+<p align="center">
+  <img src="https://img.shields.io/badge/Jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Navidrome-2A2A2A?style=for-the-badge&logo=navidrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Immich-4250AF?style=for-the-badge&logo=immich&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Paperless--ngx-17854C?style=for-the-badge&logo=paperlessngx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vaultwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=white" />
+  <img src="https://img.shields.io/badge/BookLore-6D4C41?style=for-the-badge&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Memos-5B8C5A?style=for-the-badge&logo=markdown&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Home%20Assistant-18BCF2?style=for-the-badge&logo=homeassistant&logoColor=white" />
+  <img src="https://img.shields.io/badge/AdGuard%20Home-66B574?style=for-the-badge&logo=adguard&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenMediaVault-5C9E2F?style=for-the-badge&logo=openmediavault&logoColor=white" />
+  <img src="https://img.shields.io/badge/Omada-0A8ECC?style=for-the-badge&logo=tp-link&logoColor=white" />
+</p>
 
 <!-- ─────────────────────────────  STACK  ───────────────────────────── -->
 ## 🛠️ Tech & Tools
@@ -46,7 +50,6 @@ paul@homelab:~$ whoami --verbose
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
   <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Home%20Assistant-18BCF2?style=for-the-badge&logo=homeassistant&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
