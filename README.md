@@ -1,8 +1,6 @@
 <!-- ─────────────────────────────  HEADER  ───────────────────────────── -->
 <div align="center">
 
-<img width="100%" alt="banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:E57000,100:0D1117&height=210&section=header&text=Hey,%20I'm%20Paul%20%F0%9F%91%8B&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Self-hoster%20%E2%80%A2%20Homelabber%20%E2%80%A2%20Perpetual%20Tinkerer&descAlignY=56&descSize=18" />
-
 <a href="https://github.com/PJinda168">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=620&lines=15%2B+self-hosted+services+and+counting;Proxmox+%E2%80%A2+Docker+%E2%80%A2+pfSense+%E2%80%A2+Tailscale;If+it+can+be+self-hosted%2C+I'm+hosting+it;Breaking+my+homelab+so+the+cloud+doesn't+have+to" alt="typing" />
 </a>
